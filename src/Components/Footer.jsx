@@ -12,7 +12,7 @@ export default function Footer() {
                 </p>
 
                 <p className="small">
-                    &copy; 2025 V Game Store Store. All rights reserved.
+                    &copy; 2025 V Game Store . All rights reserved. Powered by Vivexa Tech 
                 </p>
             </div>
         </footer>
